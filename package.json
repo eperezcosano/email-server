@@ -1,0 +1,28 @@
+{
+  "name": "email-server",
+  "version": "0.0.1",
+  "description": "A simple e-mail server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eperezcosano/email-server.git"
+  },
+  "keywords": [
+    "email",
+    "email-server",
+    "emailjs",
+    "emailnode",
+    "emailnodejs",
+    "imap",
+    "smpt"
+  ],
+  "author": "Izan Pérez Cosano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eperezcosano/email-server/issues"
+  },
+  "homepage": "https://github.com/eperezcosano/email-server#readme"
+}
